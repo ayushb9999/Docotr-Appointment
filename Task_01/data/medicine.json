@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Paracetamol",
+    "dosage": "500mg",
+    "frequency": "Twice a day",
+    "duration": "5 days",
+    "time": "After Meal",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/022/923/884/small_2x/pastel-color-medicine-pills-pills-flying-up-out-of-tablet-capsule-3d-rendering-pharmacy-concept-drugs-awareness-free-png.png",
+    "price": "$5",
+    "about": "Paracetamol is used to treat mild to moderate pain and reduce fever."
+  },
+  {
+    "id": 2,
+    "name": "Amoxicillin",
+    "dosage": "250mg",
+    "frequency": "Once a day",
+    "duration": "7 days",
+    "time": "Before Meal",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/medicine-with-pills-3d-icon-download-in-png-blend-fbx-gltf-file-formats--bottle-healthcare-doctor-pack-medical-icons-5889248.png",
+    "price": "$8",
+    "about": "Amoxicillin is an antibiotic used to treat bacterial infections such as pneumonia and bronchitis."
+  },
+  {
+    "id": 3,
+    "name": "Cetirizine",
+    "dosage": "10mg",
+    "frequency": "Once a day",
+    "duration": "10 days",
+    "time": "At Night",
+    "image": "https://png.pngtree.com/png-clipart/20240323/original/pngtree-pot-medicine-drugs-png-image_14662646.png",
+    "price": "$3",
+    "about": "Cetirizine is an antihistamine used to relieve allergy symptoms such as runny nose and itching."
+  },
+  {
+    "id": 4,
+    "name": "Ibuprofen",
+    "dosage": "400mg",
+    "frequency": "Thrice a day",
+    "duration": "3 days",
+    "time": "After Meal",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/medicine-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--pills-health-suplement-healthcare-pack-medical-illustrations-4528493.png?f=webp",
+    "price": "$6",
+    "about": "Ibuprofen is a pain reliever and anti-inflammatory used to reduce fever and swelling."
+  },
+  {
+    "id": 5,
+    "name": "Metformin",
+    "dosage": "500mg",
+    "frequency": "Twice a day",
+    "duration": "1 month",
+    "time": "With Meal",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/medicine-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--medical-health-healthcare-care-treatment-hospital-pack-illustrations-3653601.png?f=webp",
+    "price": "$10",
+    "about": "Metformin is used to control blood sugar levels in people with type 2 diabetes."
+  },
+  {
+    "id": 6,
+    "name": "Losartan",
+    "dosage": "50mg",
+    "frequency": "Once a day",
+    "duration": "2 months",
+    "time": "Before Meal",
+    "image": "https://cdn.pixabay.com/photo/2013/07/13/13/33/pills-161087_640.png",
+    "price": "$12",
+    "about": "Losartan is used to treat high blood pressure and reduce the risk of stroke."
+  },
+  {
+    "id": 7,
+    "name": "Omeprazole",
+    "dosage": "20mg",
+    "frequency": "Once a day",
+    "duration": "14 days",
+    "time": "Before Breakfast",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/008/550/206/small/health-and-medicine-icon-3d-illustration-free-png.png",
+    "price": "$7",
+    "about": "Omeprazole is a proton pump inhibitor used to treat acid reflux and stomach ulcers."
+  },
+  {
+    "id": 8,
+    "name": "Atorvastatin",
+    "dosage": "10mg",
+    "frequency": "Once a day",
+    "duration": "Long term",
+    "time": "At Night",
+    "image": "https://www.pngall.com/wp-content/uploads/12/Pills-Medicine-PNG.png",
+    "price": "$15",
+    "about": "Atorvastatin is a statin medication used to lower cholesterol and reduce heart disease risk."
+  },
+  {
+    "id": 9,
+    "name": "Levothyroxine",
+    "dosage": "75mcg",
+    "frequency": "Once a day",
+    "duration": "Lifelong",
+    "time": "Empty Stomach",
+    "image": "https://m.media-amazon.com/images/G/01/wg/lp/storefront/new-logo-update/hand_with_bottle_mobile.png",
+    "price": "$18",
+    "about": "Levothyroxine is used to treat hypothyroidism by replacing the hormone normally produced by the thyroid gland."
+  },
+  {
+    "id": 10,
+    "name": "Aspirin",
+    "dosage": "81mg",
+    "frequency": "Once a day",
+    "duration": "Long term",
+    "time": "With Meal",
+    "image": "https://www.pngkey.com/png/full/855-8555767_medicine-png-conventional-medicine-png.png",
+    "price": "$4",
+    "about": "Aspirin is a pain reliever and blood thinner used to reduce the risk of heart attack and stroke."
+  }
+]

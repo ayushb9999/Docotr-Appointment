@@ -1,0 +1,122 @@
+  [
+    {
+      "id": 1,
+      "name": "Dr. Aavesh Sharma",
+      "specialization": "Cardiologist",
+      "experience": "12 Yrs",
+      "rating": 4.9,
+      "location": "New York, USA",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/026/375/249/small_2x/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg",
+      "isPopular": true,
+      "totalPatients": 3200,
+      "about": "Dr. Aavesh Sharma is a leading cardiologist with over a decade of experience treating heart diseases and hypertension."
+    },
+    {
+      "id": 2,
+      "name": "Dr. John Smith",
+      "specialization": "Neurologist",
+      "experience": "15 Yrs",
+      "rating": 4.8,
+      "location": "Los Angeles, USA",
+      "image": "https://img.freepik.com/free-photo/female-doctor-wearing-white-coat-front-view_23-2149844575.jpg",
+      "isPopular": true,
+      "totalPatients": 4000,
+      "about": "Dr. John Smith is an expert neurologist specializing in treating Alzheimer's, epilepsy, and brain disorders."
+    },
+    {
+      "id": 3,
+      "name": "Dr. Priya Patel",
+      "specialization": "Dermatologist",
+      "experience": "9 Yrs",
+      "rating": 4,
+      "location": "Mumbai, India",
+      "image": "https://t3.ftcdn.net/jpg/03/13/77/82/360_F_313778250_Y0o5can6MA490Nt7G6p03Zfu5fKmWCIv.jpg",
+      "isPopular": false,
+      "totalPatients": 2200,
+      "about": "Dr. Priya Patel is a renowned dermatologist helping patients with acne, eczema, and cosmetic skin treatments."
+    },
+    {
+      "id": 4,
+      "name": "Dr. Alex Brown",
+      "specialization": "Orthopedic Surgeon",
+      "experience": "13 Yrs",
+      "rating": 4.7,
+      "location": "London, UK",
+      "image": "https://media.istockphoto.com/id/1468678624/photo/nurse-hospital-employee-and-portrait-of-black-man-in-a-healthcare-wellness-and-clinic-feeling.jpg?s=612x612&w=0&k=20&c=AGQPyeEitUPVm3ud_h5_yVX4NKY9mVyXbFf50ZIEtQI=",
+      "isPopular": true,
+      "totalPatients": 2800,
+      "about": "Dr. Alex Brown is an orthopedic specialist with a focus on joint replacements and sports injuries."
+    },
+    {
+      "id": 5,
+      "name": "Dr. Sofia Williams",
+      "specialization": "Pediatrician",
+      "experience": "10 Yrs",
+      "rating": 4.2,
+      "location": "Sydney, Australia",
+      "image": "https://thumbs.dreamstime.com/b/young-male-doctor-close-up-happy-looking-camera-56751540.jpg",
+      "isPopular": false,
+      "totalPatients": 2500,
+      "about": "Dr. Sofia Williams is a dedicated pediatrician caring for infants, children, and teenagers with a patient-friendly approach."
+    },
+    {
+      "id": 6,
+      "name": "Dr. David Miller",
+      "specialization": "Psychiatrist",
+      "experience": "16 Yrs",
+      "rating": 4.9,
+      "location": "Toronto, Canada",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg?crop=0.66698xw:1xh;center,top&resize=640:*",
+      "isPopular": true,
+      "totalPatients": 3700,
+      "about": "Dr. David Miller is a psychiatrist specializing in anxiety, depression, and mental health disorders."
+    },
+    {
+      "id": 7,
+      "name": "Dr. Elena Rossi",
+      "specialization": "Gynecologist",
+      "experience": "14 Yrs",
+      "rating": 4.8,
+      "location": "Rome, Italy",
+      "image": "https://thumbs.dreamstime.com/b/young-male-doctor-close-up-happy-looking-camera-56751540.jpg",
+      "isPopular": true,
+      "totalPatients": 3300,
+      "about": "Dr. Elena Rossi is a leading gynecologist specializing in prenatal care, infertility treatments, and women’s health."
+    },
+    {
+      "id": 8,
+      "name": "Dr. Carlos Mendez",
+      "specialization": "Endocrinologist",
+      "experience": "11 Yrs",
+      "rating": 4.4,
+      "location": "Madrid, Spain",
+      "image": "https://randomuser.me/api/portraits/men/8.jpg",
+      "isPopular": false,
+      "totalPatients": 2900,
+      "about": "Dr. Carlos Mendez is an endocrinologist treating diabetes, thyroid disorders, and hormonal imbalances."
+    },
+    {
+      "id": 9,
+      "name": "Dr. Mei Zhang",
+      "specialization": "Oncologist",
+      "experience": "18 Yrs",
+      "rating": 4.9,
+      "location": "Beijing, China",
+      "image": "https://thumbs.dreamstime.com/b/young-male-doctor-consulting-room-20598371.jpg",
+      "isPopular": true,
+      "totalPatients": 4500,
+      "about": "Dr. Mei Zhang is an oncologist with expertise in cancer treatments and chemotherapy management."
+    },
+    {
+      "id": 10,
+      "name": "Dr. Vikram Tyagi",
+      "specialization": "Urologist",
+      "experience": "12 Yrs",
+      "rating": 4.7,
+      "location": "Delhi, India",
+      "image": "https://randomuser.me/api/portraits/men/10.jpg",
+      "isPopular": false,
+      "totalPatients": 3100,
+      "about": "Dr. Vikram Tyagi is a urologist specializing in kidney stones, prostate issues, and urinary tract infections."
+    }
+  ]
